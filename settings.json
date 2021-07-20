@@ -1,0 +1,13 @@
+{
+    "name": "polyRhino",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "RHINO",
+        "/category/asset_value_tracking/core-token/symbol": "RHINO",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "10000000000"
+    }
+}
